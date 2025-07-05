@@ -1,0 +1,19 @@
+{
+  "name": "node-and-chai",
+  "version": "1.0.0",
+  "description": "basic for deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Vaibhav Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}
